@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 5c9ea6d14a619fe449df6e92b971434f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_primaryButtonPressed: {fileID: 6422274978271219424, guid: 0a8276fe75bbd0041a58236993d38cdf, type: 3}
+  - m_secondaryButtonPressed: {fileID: 1032198726978305155, guid: 0a8276fe75bbd0041a58236993d38cdf, type: 3}
+  - m_triggerPressed: {fileID: 3279264004350380116, guid: 0a8276fe75bbd0041a58236993d38cdf, type: 3}
+  - m_gripPressed: {instanceID: 0}
+  - m_touchpadTouched: {instanceID: 0}
+  - m_touchpadPressed: {instanceID: 0}
+  - m_thumbstickPressed: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

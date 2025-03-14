@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ControllerBehaviours">
+    <Position X="30.5" Y="4.75" Width="2.75" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="ControllerBehaviours.InteractionType">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\XR Lab\Scripts\ControllerBehaviours.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="ControllerBehaviours.XRButton">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\XR Lab\Scripts\ControllerBehaviours.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="ControllerBehaviours.ControllerHand">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\XR Lab\Scripts\ControllerBehaviours.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="ControllerBehaviours.Direction">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\XR Lab\Scripts\ControllerBehaviours.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Struct Name="ControllerBehaviours.XRInteraction">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\XR Lab\Scripts\ControllerBehaviours.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>EAQhIAQMIhCAQiggABAAAAABBAQAAiAICAAAEACACEI=</HashCode>
+      <FileName>Assets\XR Lab\Scripts\ControllerBehaviours.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GrabObjectController">
+    <Position X="22" Y="4.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQAQAAAACAAAAAAAAAAAAgAAAAAABAEAEAAAAACAAA=</HashCode>
+      <FileName>Assets\XR Lab\Scripts\GrabObjectController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InGameWatch">
+    <Position X="36.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Assets\XR Lab\Scripts\InGameWatch.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MockHMDController">
+    <Position X="19.25" Y="4.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQBAAAMAAACAAAAAAAAAcAAAAAAACAAAAAAACMACEA=</HashCode>
+      <FileName>Assets\XR Lab\Scripts\MockHMDController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ObjectMaterialManager">
+    <Position X="16.25" Y="4.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AgRdCAEICAQCBADAACAAAAwAEAAgAAAAgAAAAABBClE=</HashCode>
+      <FileName>Assets\XR Lab\Scripts\ObjectMaterialManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ObjectRigidBodyManager">
+    <Position X="41.25" Y="4.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>ABQRAAEFgSgAEQAAwAAQCgwAARIBAAgIAAAAEBAAKAA=</HashCode>
+      <FileName>Assets\XR Lab\Scripts\ObjectRigidBodyManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ObjectSpawner">
+    <Position X="5.75" Y="4.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAgAEBAAAAAAAAoAAAQAABAgAEEAAAAAAAEA=</HashCode>
+      <FileName>Assets\XR Lab\Scripts\ObjectSpawner.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnityConsolePassthrough">
+    <Position X="38.5" Y="4.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQgAAAAACAAAAAAAEAAAEABABAIAAAIEAAAAAEECEA=</HashCode>
+      <FileName>Assets\XR Lab\Scripts\UnityConsolePassthrough.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ToolgunController">
+    <Position X="3.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="VRPlayerBlocker">
+    <Position X="10.75" Y="4.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAEAAAAAAAAAgAAAIQAAAAAAAAAAgAAAAAEA=</HashCode>
+      <FileName>Assets\XR Lab\Scripts\VRPlayerBlocker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XRIGrappleHook">
+    <Position X="24.75" Y="4.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AIAAEAAICgAABAAAACAAAMAIABAAAAAIAAAQAAAACEA=</HashCode>
+      <FileName>Assets\XR Lab\Scripts\XRIGrappleHook.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XRIObjectSelector">
+    <Position X="27.75" Y="4.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAIAAAAAAAAAAAAIAAAAAAgAAAICAAAAAAACEA=</HashCode>
+      <FileName>Assets\XR Lab\Scripts\XRIObjectSelector.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XRIRayToggle">
+    <Position X="8.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAIAAAABAAEAAAAIAAAAAAAABAIAAAAAAAACEA=</HashCode>
+      <FileName>Assets\XR Lab\Scripts\XRIRayToggle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XRITranslationManager">
+    <Position X="3.5" Y="4.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\XR Lab\Scripts\XRITranslationManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnityEngine.MonoBehaviour">
+    <Position X="25" Y="0.5" Width="2.25" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="XRIHandModelManager">
+    <Position X="13.5" Y="4.75" Width="2" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="XRIHandModelManager.HandMode">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\XR Lab\Scripts\XRIHandModelManager.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAiAHIAQAAAAQAAAAAIAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\XR Lab\Scripts\XRIHandModelManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XRIMenuDockController">
+    <Position X="44.25" Y="4.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAgAiAAAAAIABAAAAAAAAAAAAAIAAAAAAAACgA=</HashCode>
+      <FileName>Assets\XR Lab\Scripts\XRIMenuDockController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XRIObjectComponentManager">
+    <Position X="34" Y="4.75" Width="2.25" />
+    <NestedTypes>
+      <Struct Name="XRIObjectComponentManager.AddCustomComponent" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\XR Lab\Scripts\XRIObjectComponentManager.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AgAAAAgAkoQAAAAABAAQACAAGAAAAAAIAACAAAAACEA=</HashCode>
+      <FileName>Assets\XR Lab\Scripts\XRIObjectComponentManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XRIToolgunController">
+    <Position X="47" Y="4.75" Width="2" />
+    <NestedTypes>
+      <Enum Name="XRIToolgunController.ToolgunMode" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\XR Lab\Scripts\XRIToolgunController.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAIAAIAiEAAAAAAAAAAAgAAAAAAAAIAJAAAAAACAA=</HashCode>
+      <FileName>Assets\XR Lab\Scripts\XRIToolgunController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaseCustomTool">
+    <Position X="9.25" Y="9" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>BAQAAAACACBAEAAAABCAQAgACAAEAgBIAQAAQEAACQg=</HashCode>
+      <FileName>Assets\XR Lab\Scripts\BaseCustomTool.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExampleCustomIO">
+    <Position X="12" Y="11.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>BAQAAAAAACAAAAAAABAAQAAAAAAAAgBAAAAAAAAAAQA=</HashCode>
+      <FileName>Assets\XR Lab\Scripts\ExampleCustomIO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
