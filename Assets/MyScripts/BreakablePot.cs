@@ -23,6 +23,9 @@ public class BreakablePot : MonoBehaviour
     {
         if (isBroken) return;
 
+        // Notify game manager
+        PotBreakingGame.Instance.PotBroken();
+
         isBroken = true;
 
         // Disable interaction
