@@ -10,12 +10,12 @@ public class DayNightSwitcher : MonoBehaviour
     public void SetDayMode()
     {
         RenderSettings.skybox = daySkybox;
-        DynamicGI.UpdateEnvironment();  // updates lighting if using GI
+        DynamicGI.UpdateEnvironment();
     }
 
     public void SetNightMode()
     {
         RenderSettings.skybox = nightSkybox;
-        DynamicGI.UpdateEnvironment();  // updates lighting if using GI
+        DynamicGI.UpdateEnvironment(); 
     }
 }

@@ -10,7 +10,7 @@ public class PotBreakingGame : MonoBehaviour
     public static PotBreakingGame Instance;
 
     [Header("UI Elements")]
-    public TMP_Text potCountText; // Changed from Text to TMP_Text
+    public TMP_Text potCountText; 
     public GameObject congratsPanel;
     public Button closeButton;
 
@@ -29,7 +29,7 @@ public class PotBreakingGame : MonoBehaviour
         potsBroken++;
         UpdatePotCount();
 
-        if (potsBroken == 5)
+        if (potsBroken == 10)
         {
             ShowCongratsPanel();
         }
@@ -37,18 +37,18 @@ public class PotBreakingGame : MonoBehaviour
 
     void UpdatePotCount()
     {
-        potCountText.text = "Pots Broken: " + potsBroken;
+        potCountText.text = "Magic Pots: " + potsBroken;
     }
 
     void ShowCongratsPanel()
     {
         congratsPanel.SetActive(true);
-        // Optional: Pause game or disable interactions
+        
     }
 
     void CloseCongratsPanel()
     {
         congratsPanel.SetActive(false);
-        // Optional: Resume game or enable interactions
+        
     }
 }
